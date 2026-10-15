@@ -7,7 +7,7 @@
 
 body {
     background-color: #000000;
-    color: #f9f7f7;
+    color: #ffffff;
     /* Using Serif to match the classic receipt typography */
     font-family: "Times New Roman", Times, serif; 
     display: flex;
@@ -57,4 +57,3 @@ h1 {
         font-size: 1.3rem;
     }
 }
-
